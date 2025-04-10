@@ -2,6 +2,13 @@
 
 **Sillas Gil** is a web-based application designed to manage the logistics and inventory of a company that provides grandstands, stages, and chairs for parades and religious processions. The goal is to optimize the organization, reservations, and deployment of infrastructure elements for public events.
 
+## 🧾 Motivation
+
+This project was born from a personal connection — my father has worked for **Sillas Gil** for many years. The company, which specializes in setting up grandstands, chairs, and stages for parades and religious processions, has always operated in a very traditional and manual way. Most tasks — from taking reservations to managing inventory — have been handled with pen, paper, and a lot of phone calls.
+
+As someone passionate about technology, I saw an opportunity to modernize and streamline their operations with a digital system. This application is a first step toward giving the company a much-needed technological facelift, making it easier to manage events, equipment, and logistics in a more efficient and scalable way.
+
+
 ## 📌 Project Overview
 
 This ASP.NET MVC application allows users to manage:

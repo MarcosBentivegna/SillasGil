@@ -7,38 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="Views\Home\404.cshtml" />
-    <Content Remove="Views\Home\blank.cshtml" />
-    <Content Remove="Views\Home\buttons.cshtml" />
-    <Content Remove="Views\Home\cards.cshtml" />
-    <Content Remove="Views\Home\charts.cshtml" />
-    <Content Remove="Views\Home\forgot-password.cshtml" />
-    <Content Remove="Views\Home\login.cshtml" />
-    <Content Remove="Views\Home\register.cshtml" />
-    <Content Remove="Views\Home\tables.cshtml" />
-    <Content Remove="Views\Home\utilities-animation.cshtml" />
-    <Content Remove="Views\Home\utilities-border.cshtml" />
-    <Content Remove="Views\Home\utilities-color.cshtml" />
-    <Content Remove="Views\Home\utilities-other.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="Views\Home\404.cshtml" />
-    <None Include="Views\Home\blank.cshtml" />
-    <None Include="Views\Home\buttons.cshtml" />
-    <None Include="Views\Home\cards.cshtml" />
-    <None Include="Views\Home\charts.cshtml" />
-    <None Include="Views\Home\forgot-password.cshtml" />
-    <None Include="Views\Home\login.cshtml" />
-    <None Include="Views\Home\register.cshtml" />
-    <None Include="Views\Home\tables.cshtml" />
-    <None Include="Views\Home\utilities-animation.cshtml" />
-    <None Include="Views\Home\utilities-border.cshtml" />
-    <None Include="Views\Home\utilities-color.cshtml" />
-    <None Include="Views\Home\utilities-other.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.4" />
   </ItemGroup>

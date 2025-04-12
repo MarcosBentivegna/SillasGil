@@ -18,7 +18,67 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Privacy()
+    public IActionResult Forgotpassword()
+    {
+        return View();
+    }
+
+    public IActionResult Cards()
+    {
+        return View();
+    }
+
+    public IActionResult Blank()
+    {
+        return View();
+    }
+
+    public IActionResult Utilitiesanimation()
+    {
+        return View();
+    }
+
+    public IActionResult Utilitiescolor()
+    {
+        return View();
+    }
+
+    public IActionResult Utilitiesborder()
+    {
+        return View();
+    }
+
+    public IActionResult Utilitiesother()
+    {
+        return View();
+    }
+
+    public IActionResult Login()
+    {
+        return View();
+    }
+
+    public IActionResult Error404()
+    {
+        return View();
+    }
+
+    public IActionResult Buttons()
+    {
+        return View();
+    }
+
+    public IActionResult Tables()
+    {
+        return View();
+    }
+
+    public IActionResult Charts()
+    {
+        return View();
+    }
+
+    public IActionResult Register()
     {
         return View();
     }
